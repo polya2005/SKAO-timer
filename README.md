@@ -15,8 +15,8 @@ Please refer to [windows_exe branch](https://github.com/polya2005/SKAO-timer/tre
 
         ```pip install playsound==1.2.2```
     
-    > [!IMPORTANT] 
-    > At the time of testing, the latest version does not work on Windows. Therefore, `==1.2.2` is required.
+> [!IMPORTANT] 
+> At the time of testing, the latest version does not work on Windows. Therefore, `==1.2.2` is required.
 
     - For macOS and Linux, install the latest version using the following command.
 
