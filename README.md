@@ -15,12 +15,12 @@ Please refer to [windows_exe branch](https://github.com/polya2005/SKAO-timer/tre
 
         ```pip install playsound==1.2.2```
     
-> [!IMPORTANT] 
-> At the time of testing, the latest version does not work on Windows. Therefore, `==1.2.2` is required.
 
     - For macOS and Linux, install the latest version using the following command.
 
         ```pip3 install playsound```
+> [!IMPORTANT] 
+> At the time of testing, the latest version does not work on Windows. Therefore, `==1.2.2` is required.
 3. Download the files `main.py`, `nextround.mp3`, `oneminleft.mp3`, and `timeout.mp3`. Place them in the same folder.
 4. Run `main.py`
     - For Windows, use the following command.
