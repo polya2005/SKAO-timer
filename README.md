@@ -5,7 +5,7 @@ This project is a simple command line timer for Suankularb Wittayalai School's a
 
 ## How to install and run
 ### Install as a standalone program for Windows
-Please refer to [windows_exe branch](https://github.com/polya2005/SKAO-timer/tree/windows_exe)
+Please refer to [windows_exe](https://github.com/polya2005/SKAO-timer/tree/windows_exe) branch.
 
 ### Install and run with Python
 1. Download and install Python from [the official Python website](https://www.python.org)
